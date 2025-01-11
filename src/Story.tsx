@@ -23,7 +23,7 @@ export const Story = ({
   duration,
   swipeText,
   avatarSize,
-  showAvatarText,
+  showAvatarText = true,
   avatarTextStyle,
   onStorySeen,
   renderCloseComponent,
